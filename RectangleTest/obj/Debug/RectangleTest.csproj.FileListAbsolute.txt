@@ -1,0 +1,2 @@
+E:\Conestoga_CAD_Sem 2\Rectangle\Rectangle\RectangleTest\obj\Debug\RectangleTest.csproj.AssemblyReference.cache
+E:\Conestoga_CAD_Sem 2\Rectangle\Rectangle\RectangleTest\obj\Debug\RectangleTest.csproj.CoreCompileInputs.cache
